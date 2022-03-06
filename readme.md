@@ -4,5 +4,3 @@ readme.md
 # Hello
 
 # new branch
-# era un om pe nume ion 
-
